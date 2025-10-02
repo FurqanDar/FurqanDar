@@ -6,7 +6,7 @@ I build data-driven solutions that bridge scientific rigor and software engineer
 
 ## What I Do
 
-Data Science & ML – End-to-end workflows: data wrangling, statistical modeling, ML, and deployment
+Data Science & ML – End-to-end workflows, data wrangling, statistical modeling, ML, and deployment
 
 Software Engineering – Architecting modular, maintainable, and open-source platforms
 
