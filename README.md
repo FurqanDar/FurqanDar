@@ -1,20 +1,22 @@
-👋 Hi, I’m Furqan Dar
+## Introduction
 
-🚀 Data Scientist | Machine Learning Engineer | Open-Source Developer
+Hi, I’m Furqan Dar
+
+Data Scientist | Machine Learning Engineer | Open-Source Developer
 
 I build data-driven solutions that bridge scientific rigor and software engineering excellence. With a Ph.D. in Physics and 8+ years of computational experience, I specialize in designing scalable data pipelines, ML models, and open-source platforms that drive meaningful impact in healthcare, biomedical engineering, research, and beyond.
 
-🔑 What I Do
+## What I Do
 
-📊 Data Science & ML – End-to-end workflows: data wrangling, statistical modeling, ML, and deployment
+Data Science & ML – End-to-end workflows: data wrangling, statistical modeling, ML, and deployment
 
-🏗️ Software Engineering – Architecting modular, maintainable, and open-source platforms
+Software Engineering – Architecting modular, maintainable, and open-source platforms
 
-🧪 Scientific Computing – Proven track record in computational physics, biology, and medical imaging
+Scientific Computing – Proven track record in computational physics, biology, and medical imaging
 
-🌍 Collaboration – Leading cross-functional projects that connect researchers, engineers, and clinicians
+Collaboration – Leading cross-functional projects that connect researchers, engineers, and clinicians
 
-🛠️ Tech Toolbox
+## Tech Toolbox
 
 **Data Science & ML**: SQL, Python, Pandas, NumPy, SciPy, scikit-learn, XGBoost, PyTorch/Keras, lmfit
 
@@ -22,9 +24,9 @@ I build data-driven solutions that bridge scientific rigor and software engineer
 
 **Software & Cloud**: Git, Linux, AWS (Certified Cloud Practitioner), C/C++, Mathematica, HPC
 
-📂 Featured Work
+## Featured Work
 
-📌 [Portfolio Repository](https://github.com/FurqanDar/DataScience-MachineLearning-Portfolio)
+[Portfolio Repository](https://github.com/FurqanDar/DataScience-MachineLearning-Portfolio)
  – A curated collection of ML and data science projects (customer churn, real-time dashboards, predictive modeling, etc.).
 
 [PETPAL](https://github.com/PETPAL-WUSM/PETPAL)
@@ -33,7 +35,7 @@ I build data-driven solutions that bridge scientific rigor and software engineer
 [LaSSI](https://github.com/Pappulab/LASSI)
  – Lattice simulation engine (C + Python) for studying biomolecular phase transitions; widely adopted and cited (~400 citations).
 
-📈 Impact Beyond Code
+## Impact Beyond Code
 
 Authored high-impact research (PLoS Comp Bio, PNAS, Class. Quantum Grav.) with 1300+ citations
 
@@ -41,7 +43,7 @@ Architect of open-source platforms still actively used in biophysics and neuroim
 
 Passionate about creating tools that turn complex data into actionable insights
 
-🌟 Let’s Connect
+## Contact Information
 
 [LinkedIn](https://www.linkedin.com/in/furqan-dar/)
 
@@ -49,4 +51,4 @@ Passionate about creating tools that turn complex data into actionable insights
 
 [Email](furqandar94@gmail.com)
 
-⚡ If you’re a recruiter: You’ve seen my resume — here’s the code and open-source impact that back it up. I bring the rare combination of scientific depth, engineering rigor, and data science expertise to solve high-value problems at scale.
+PS: If you’re a recruiter: Here’s the code and open-source impact that back my resume up. I bring the rare combination of scientific depth, engineering rigor, and data science expertise that solve high-value problems at scale.
