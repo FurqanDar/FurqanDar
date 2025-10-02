@@ -1,8 +1,6 @@
 ## Introduction
 
-Hi, I’m Furqan Dar
-
-Data Scientist | Machine Learning Engineer | Open-Source Developer
+Hi, I’m Furqan Dar, a data scientist, a machine learning engineer, and an open-source developer.
 
 I build data-driven solutions that bridge scientific rigor and software engineering excellence. With a Ph.D. in Physics and 8+ years of computational experience, I specialize in designing scalable data pipelines, ML models, and open-source platforms that drive meaningful impact in healthcare, biomedical engineering, research, and beyond.
 
