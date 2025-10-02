@@ -16,13 +16,11 @@ I build data-driven solutions that bridge scientific rigor and software engineer
 
 🛠️ Tech Toolbox
 
-Data Science & ML: Python, pandas, NumPy, SciPy, scikit-learn, XGBoost, PyTorch, lmfit
+**Data Science & ML**: SQL, Python, Pandas, NumPy, SciPy, scikit-learn, XGBoost, PyTorch/Keras, lmfit
 
-Data Engineering: SQL, modular pipelines, parallelization (sem), BIDS workflows
+**Visualization & Reporting**: Jupyter, Matplotlib, Seaborn, Dashboards, LaTeX
 
-Visualization & Reporting: Jupyter, Matplotlib, Seaborn, Dashboards
-
-Software & Cloud: Git, Linux, AWS (Certified Cloud Practitioner), C/C++, Mathematica
+**Software & Cloud**: Git, Linux, AWS (Certified Cloud Practitioner), C/C++, Mathematica, HPC
 
 📂 Featured Work
 
