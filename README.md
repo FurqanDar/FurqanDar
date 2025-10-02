@@ -31,7 +31,7 @@ Collaboration – Leading cross-functional projects that connect researchers, en
  – Comprehensive open-source PET/MRI image analysis suite, accelerating clinical research pipelines.
 
 [LaSSI](https://github.com/Pappulab/LASSI)
- – Lattice simulation engine (C + Python) for studying biomolecular phase transitions; widely adopted and cited (~400 citations).
+ – Lattice simulation engine (C + Python) for studying biomolecular phase transitions; widely adopted and cited (~350 citations).
 
 ## Impact Beyond Code
 
