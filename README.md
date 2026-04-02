@@ -1,52 +1,40 @@
 ## Introduction
 
-Hi, I’m Furqan Dar, a data scientist, a machine learning engineer, and an open-source developer.
+Hi, I'm Furqan Dar — a Data Science AI Engineer with a Ph.D. in Physics.
 
-I build data-driven solutions that bridge scientific rigor and software engineering excellence. With a Ph.D. in Physics and 8+ years of computational experience, I specialize in designing scalable data pipelines, ML models, and open-source platforms that drive meaningful impact in healthcare, biomedical engineering, research, and beyond.
+I build production ML systems and causal inference tools. Currently sole developer of a multi-tenant ML forecasting platform serving 120+ restaurant locations with 13,000+ daily predictions — from data pipelines and model training to CI/CD and schema migrations. Previously built open-source research platforms in computational physics and medical imaging at Washington University in St. Louis.
 
 ## What I Do
 
-Data Science & ML – End-to-end workflows, data wrangling, statistical modeling, ML, and deployment
+**Production ML Systems** – End-to-end platform architecture, multi-tenant pipelines, forecasting at scale
 
-Software Engineering – Architecting modular, maintainable, and open-source platforms
+**Causal Inference** – Pearl's framework (SCMs, DAGs, d-separation), experimental design, effect estimation
 
-Scientific Computing – Proven track record in computational physics, biology, and medical imaging
+**LLM Applications** – Building tools that use LLMs for schema comprehension, hypothesis generation, and guided causal analysis
 
-Collaboration – Leading cross-functional projects that connect researchers, engineers, and clinicians
+**Scientific Computing** – 10 publications, 1500+ citations, open-source platforms used globally
 
 ## Tech Toolbox
 
-**Data Science & ML**: SQL, Python, Pandas, NumPy, SciPy, scikit-learn, XGBoost, PyTorch/Keras, lmfit
+**Languages**: Python, SQL, C, C++
 
-**Visualization & Reporting**: Jupyter, Matplotlib, Seaborn, Dashboards, LaTeX
+**ML & Data**: Pandas, NumPy, SciPy, scikit-learn, XGBoost, Snowflake (Cortex AI, Snowpark, ML), FastAPI, Pydantic
 
-**Software & Cloud**: Git, Linux, AWS (Certified Cloud Practitioner), C/C++, Mathematica, HPC
+**Infrastructure**: GitHub Actions (CI/CD), schema migrations (schemachange), semantic versioning (hatch-vcs), AWS (Certified Cloud Practitioner), Linux, HPC
+
+**Analysis & Viz**: Jupyter, Matplotlib, Seaborn, Streamlit, LaTeX
 
 ## Featured Work
 
-[Portfolio Repository](https://github.com/FurqanDar/DataScience-MachineLearning-Portfolio)
- – A curated collection of ML and data science projects (customer churn, real-time dashboards, predictive modeling, etc.).
-
 [PETPAL](https://github.com/PETPAL-WUSM/PETPAL)
- – Comprehensive open-source PET/MRI image analysis suite, accelerating clinical research pipelines.
+ – Open-source 4D PET/MRI analysis platform I built from scratch and led a team of 3 developers on. Secured 3 years of dedicated engineering funding. Accelerating clinical research pipelines in neuroimaging.
 
 [LaSSI](https://github.com/Pappulab/LASSI)
- – Lattice simulation engine (C + Python) for studying biomolecular phase transitions; widely adopted and cited (~350 citations).
+ – Lattice simulation engine (15K+ lines of C) for studying biomolecular phase transitions. 350+ citations, used globally in biophysics research.
 
-## Impact Beyond Code
+[LaSSI-Helpers](https://github.com/FurqanDar/LaSSI-Helpers)
+ – Python helper modules for LaSSI system setup, data analysis, and visualization.
 
-Authored high-impact research (PLoS Comp Bio, PNAS, Class. Quantum Grav.) with 1300+ citations
+## Contact
 
-Architect of open-source platforms still actively used in biophysics and neuroimaging communities
-
-Passionate about creating tools that turn complex data into actionable insights
-
-## Contact Information
-
-[LinkedIn](https://www.linkedin.com/in/furqan-dar/)
-
-[Google Scholar](https://scholar.google.com/citations?user=IVdqn5QAAAAJ&hl=en)
-
-[Email](furqandar94@gmail.com)
-
-PS: If you’re a recruiter: Here’s the code and open-source impact that back my resume up. I bring the rare combination of scientific depth, engineering rigor, and data science expertise that solve high-value problems at scale.
+[LinkedIn](https://www.linkedin.com/in/furqan-dar/) · [Google Scholar](https://scholar.google.com/citations?user=IVdqn5QAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-3765-8506) · [Email](mailto:furqandar94@gmail.com)
