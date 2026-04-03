@@ -26,14 +26,14 @@ I build production ML systems and causal inference tools. Currently sole develop
 
 ## Featured Work
 
+[pearlkit](https://github.com/FurqanDar/pearlkit)
+ – Causal inference toolkit implementing Pearl's causal ladder from scratch. Hand-rolled DAG operations, d-separation, backdoor criterion, and ATE estimation (stratified means, OLS, IPTW) — plus a FastAPI service layer and optional LLM-powered SCM discovery. No DoWhy, no pgmpy, no networkx.
+
 [PETPAL](https://github.com/PETPAL-WUSM/PETPAL)
  – Open-source 4D PET/MRI analysis platform I built from scratch and led a team of 3 developers on. Secured 3 years of dedicated engineering funding. Accelerating clinical research pipelines in neuroimaging.
 
 [LaSSI](https://github.com/Pappulab/LASSI)
  – Lattice simulation engine (15K+ lines of C) for studying biomolecular phase transitions. 350+ citations, used globally in biophysics research.
-
-[LaSSI-Helpers](https://github.com/FurqanDar/LaSSI-Helpers)
- – Python helper modules for LaSSI system setup, data analysis, and visualization.
 
 ## Contact
 
