@@ -10,6 +10,8 @@ I build production ML systems and causal inference tools. Currently sole develop
 
 **Causal Inference** – Pearl's framework (SCMs, DAGs, d-separation), experimental design, effect estimation
 
+**Deep Learning & Computer Vision** – Semantic segmentation architectures (U-Net, DeepLabV3+, SegFormer), PyTorch, attention mechanisms, mixed-precision training
+
 **LLM Applications** – Building tools that use LLMs for schema comprehension, hypothesis generation, and guided causal analysis
 
 **Scientific Computing** – 10 publications, 1500+ citations, open-source platforms used globally
@@ -18,13 +20,16 @@ I build production ML systems and causal inference tools. Currently sole develop
 
 **Languages**: Python, SQL, C, C++
 
-**ML & Data**: Pandas, NumPy, SciPy, scikit-learn, XGBoost, Snowflake (Cortex AI, Snowpark, ML), FastAPI, Pydantic
+**ML & Data**: PyTorch, Pandas, NumPy, SciPy, scikit-learn, XGBoost, Snowflake (Cortex AI, Snowpark, ML), FastAPI, Pydantic, Weights & Biases
 
 **Infrastructure**: GitHub Actions (CI/CD), schema migrations (schemachange), semantic versioning (hatch-vcs), AWS (Certified Cloud Practitioner), Linux, HPC
 
 **Analysis & Viz**: Jupyter, Matplotlib, Seaborn, Streamlit, LaTeX
 
 ## Featured Work
+
+[aeroseg](https://github.com/FurqanDar/aeroseg)
+ – Multi-architecture semantic segmentation system in PyTorch. From-scratch U-Net (vanilla + attention gates), DeepLabV3+, and SegFormer implementations with hand-written training loops, mixed-precision training, and W&B tracking. Trained on OpenEarthMap (5K images, 8 classes, 44 countries).
 
 [pearlkit](https://github.com/FurqanDar/pearlkit)
  – Causal inference toolkit implementing Pearl's causal ladder from scratch. Hand-rolled DAG operations, d-separation, backdoor criterion, and ATE estimation (stratified means, OLS, IPTW) — plus a FastAPI service layer and optional LLM-powered SCM discovery. No DoWhy, no pgmpy, no networkx.
